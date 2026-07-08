@@ -28,7 +28,7 @@ Prometheus is primarily used for **white-box monitoring**—tracking the interna
 3. **Data Visualization:** Acting as the data backend for dashboards, most commonly paired with **Grafana** for rich visual analysis.
     
 
-### Quick Summary
+### Quick Summary for the Interviewer
 
 > "Prometheus is a pull-based, time-series monitoring tool optimized for dynamic cloud environments like Kubernetes. It uses PromQL for powerful data querying and is built to be independent and highly reliable, making it the industry standard for cloud-native metrics collection and alerting."
 
